@@ -25,6 +25,4 @@ Actualmente estoy construyendo experiencia en:
 
 ## 📂 Proyectos en los que estoy trabajando
 - **Sistema de Alertas Comunitarias:** Aplicación web para reportes de seguridad en barrios.
-
 ---
-
