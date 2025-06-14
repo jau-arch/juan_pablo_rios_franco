@@ -15,13 +15,10 @@ Actualmente estoy construyendo experiencia en:
 - **Frameworks y librerías:** Flask, Bootstrap (básico)
 - **Bases de datos:** MySQL
 - **Herramientas:** Git, GitHub, Workbench, Canva
-
-## 📈 Mis estadísticas de GitHub
-![Juan Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanpabloriosfranco&show_icons=true&theme=github_dark)
-
+  
 ## 📫 Contacto
-- 📧 **Correo:** juanpablo@example.com
-- 🔗 **GitHub:** [https://github.com/juanpabloriosfranco](https://github.com/juanpabloriosfranco)
+- 📧 **Correo:** juanpablo160906@gmail.com
+- 🔗 **GitHub:** [[https://github.com/juanpabloriosfranco](https://github.com/juanpabloriosfranco)](https://github.com/jau-arch/juan_pablo_rios_franco)
 
 ## 📂 Proyectos en los que estoy trabajando
 - **Sistema de Alertas Comunitarias:** Aplicación web para reportes de seguridad en barrios.
