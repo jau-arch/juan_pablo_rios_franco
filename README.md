@@ -3,7 +3,7 @@
 # Juan Pablo Ríos Franco  
 ### Programador de Software Junior | Desarrollo Web & Bases de Datos
 
-💡 Construyo soluciones digitales funcionales, escalables y orientadas a resolver problemas reales.
+💡 Desarrollo aplicaciones web funcionales enfocadas en resolver problemas reales, con bases sólidas y buenas prácticas.
 
 </div>
 
@@ -11,24 +11,24 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Programador de software junior con enfoque en **desarrollo de aplicaciones web** y **gestión de bases de datos**.  
-Cuento con experiencia en la construcción de proyectos prácticos utilizando buenas prácticas, control de versiones y una mentalidad orientada al aprendizaje continuo.
+Programador de software junior con enfoque en **desarrollo web backend** y **gestión de bases de datos**.  
+Cuento con experiencia práctica en la creación de aplicaciones web utilizando **Python**, **Flask** y **MySQL**, aplicando control de versiones y una estructura clara de proyecto.
 
-Me destaco por:
-- Capacidad de análisis y resolución de problemas  
-- Compromiso con la calidad del código  
-- Adaptabilidad a nuevos entornos y tecnologías  
-- Responsabilidad y trabajo autónomo  
+Me caracterizo por:
+- Aprendizaje constante y autodidacta  
+- Responsabilidad y compromiso  
+- Buen manejo de la lógica de programación  
+- Interés por mejorar la calidad del código y la organización de proyectos  
 
 ---
 
-## 🎯 Áreas de Especialización
+## 🎯 Áreas de Conocimiento
 
 - Desarrollo backend con **Python** y **Flask**
 - Diseño y administración de **bases de datos MySQL**
 - Desarrollo frontend con **HTML y CSS**
 - Control de versiones con **Git y GitHub**
-- Documentación y estructuración de proyectos
+- Documentación básica de proyectos
 
 ---
 
@@ -36,54 +36,53 @@ Me destaco por:
 
 ### Lenguajes
 <p>
-  <img src="https://img.shields.io/badge/Python-Avanzando-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Intermedio-003B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-Básico-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-Nivel_Junior-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Nivel_Junior-003B57?style=for-the-badge"/>
 </p>
 
 ### Desarrollo Web
 <p>
-  <img src="https://img.shields.io/badge/HTML5-Profesional-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-Profesional-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-Bueno-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-Bueno-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### Frameworks & Librerías
+### Framework
 <p>
-  <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-Intermedio-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-Nivel_Junior-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 ### Bases de Datos
 <p>
-  <img src="https://img.shields.io/badge/MySQL-Administración-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Nivel_Junior-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### Herramientas
 <p>
   <img src="https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL_Workbench-Diseño_BD-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL_Workbench-Bases_de_Datos-4479A1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Canva-Documentación-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Proyectos Relevantes
+## 📌 Proyecto Principal
 
 ### 🚨 Sistema de Alertas Comunitarias
-Aplicación web desarrollada para la gestión de reportes de seguridad y eventos comunitarios.
+Aplicación web orientada a la gestión de reportes de seguridad y eventos comunitarios.
 
-**Características principales:**
-- Registro y validación de reportes
-- Gestión de usuarios y roles
-- Panel administrativo
-- Organización de alertas comunitarias
+**Funciones principales:**
+- Registro de reportes por usuarios
+- Gestión básica de usuarios
+- Organización de alertas
+- Panel administrativo sencillo
 
-**Tecnologías:** Flask · MySQL · HTML · CSS · Git
+**Tecnologías usadas:**  
+Flask · MySQL · HTML · CSS · Git
 
 ---
 
-## 📈 Métricas de GitHub
+## 📈 Actividad en GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jau-arch&show_icons=true&theme=dark"/>
@@ -104,7 +103,8 @@ Aplicación web desarrollada para la gestión de reportes de seguridad y eventos
 
 <div align="center">
 
-🔒 Perfil orientado a crecimiento profesional  
-🚀 En búsqueda constante de mejorar habilidades técnicas y aportar valor a equipos de desarrollo
+🚀 Perfil en crecimiento  
+📚 En constante aprendizaje y mejora técnica  
+🤝 Abierto a prácticas, proyectos y oportunidades junior
 
 </div>
