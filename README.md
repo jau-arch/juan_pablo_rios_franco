@@ -6,7 +6,7 @@ Soy programador de software junior, apasionado por la tecnología y en constante
 Actualmente estoy construyendo experiencia en:
 - Desarrollo web con **Python** y **Flask**
 - Creación y gestión de bases de datos con **MySQL**
-- Frontend básico con **HTML**, **CSS** y **JavaScript**
+- Frontend básico con **HTML** y **CSS** 
 - Control de versiones con **Git** y **GitHub**
 
 ## 🛠️ Tecnologías que manejo
